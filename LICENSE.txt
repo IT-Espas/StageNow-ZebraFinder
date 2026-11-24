@@ -1,0 +1,18 @@
+ZebraFinder - Internal Use Only
+
+Copyright (c) 2026 ESPAS
+All rights reserved.
+
+ZebraFinder is proprietary software intended exclusively for internal use within ESPAS.
+
+The software, binaries, documentation and related materials may not be copied, published, redistributed, sublicensed, sold, transferred or deployed outside ESPAS without prior written authorization from the copyright holder.
+
+External deployment, distribution to third parties and publication of modified or unmodified versions are expressly prohibited.
+
+The software is provided on an "as is" basis. No warranty is given regarding availability, error-free operation, fitness for a particular purpose or compatibility with specific devices or software versions.
+
+To the maximum extent permitted by applicable law, the copyright holder and contributors shall not be liable for direct or indirect damages, loss of data, interruption of operations, device malfunction or other losses resulting from the use or inability to use the software.
+
+Third-party libraries, frameworks and dependencies remain subject to their respective license terms.
+
+Use of ZebraFinder outside the authorized internal ESPAS environment requires prior written approval.
